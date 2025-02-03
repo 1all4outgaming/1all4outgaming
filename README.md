@@ -5,15 +5,6 @@
 
 ---
 
-### 🚀 About Me:
-- 💻 Passionate about **Web Development, Linux & Cybersecurity**
-- 🔧 Love to work with **JavaScript, Python, HTML, CSS**
-- 🎯 Exploring **Open Source & Ethical Hacking**
-- 🌎 Always ready to **contribute & collaborate**
-- 🏆 Continuously **improving & building**
-
----
-
 ### 🛠️ Tech Stack & Skills:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" />
@@ -25,13 +16,18 @@
 
 ---
 
+### 🎭 Animated Developer Activity:
+![GitHub Snake Animation](https://github.com/1all4outgaming/1all4outgaming/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 📆 My Daily Routine:
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1all4outgaming&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
 ---
 
-### 📊 GitHub Stats & Streaks:
+### ⚡ GitHub Power Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1all4outgaming&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1all4outgaming&theme=tokyonight" width="48%" />
@@ -46,7 +42,7 @@
 
 ---
 
-### 🏆 GitHub Achievements:
+### 🚀 GitHub Achievements:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=1all4outgaming&theme=radical&margin-w=15&column=7" />
 </p>
@@ -71,13 +67,3 @@
 </p>
 
 ---
-
-### 🔥 My Best Repos:
-<p align="center">
-  <a href="https://github.com/1all4outgaming/super-cool-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1all4outgaming&repo=super-cool-project&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/1all4outgaming/ultimate-linux-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1all4outgaming&repo=ultimate-linux-toolkit&theme=tokyonight" />
-  </a>
-</p>
